@@ -8,10 +8,13 @@ some useful shell script
 
 
 脚本:check_snmp_aix_disk.sh
+
 网址:http://exchange.nagios.org/directory/Addons/SNMP/check_snmp_aix_disk-2Esh/details
 
 脚本:check_snmp_hpux_disk.sh
+
 网址:http://exchange.nagios.org/directory/Addons/SNMP/check_snmp_hpux_disk-2Esh/details
 
 脚本:check_snmp_suse_disk.sh
+
 网址:http://exchange.nagios.org/directory/Addons/SNMP/check_snmp_suse_disk-2Esh/details
